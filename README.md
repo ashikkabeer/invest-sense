@@ -1,1 +1,3 @@
-# invest-sense
+# Invest Sense
+
+ai-investment platform
